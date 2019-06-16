@@ -26,4 +26,10 @@ public class Capability {
         this.numOfDevelopers = numOfDevelopers;
         this.numOfAvailableDevelopers = numOfAvailableDevelopers;
     }
+
+    public Capability(String techStack, Integer numOfDevelopers, Integer numOfAvailableDevelopers) {
+        this.techStack = techStack;
+        this.numOfDevelopers = numOfDevelopers;
+        this.numOfAvailableDevelopers = numOfAvailableDevelopers;
+    }
 }
