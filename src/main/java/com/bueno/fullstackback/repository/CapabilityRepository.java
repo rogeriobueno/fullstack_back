@@ -1,6 +1,6 @@
-package com.bueno.fullStackBack.repository;
+package com.bueno.fullstackback.repository;
 
-import com.bueno.fullStackBack.model.Capability;
+import com.bueno.fullstackback.model.Capability;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

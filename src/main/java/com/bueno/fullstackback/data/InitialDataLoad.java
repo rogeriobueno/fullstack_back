@@ -1,7 +1,7 @@
-package com.bueno.fullStackBack.data;
+package com.bueno.fullstackback.data;
 
-import com.bueno.fullStackBack.model.Capability;
-import com.bueno.fullStackBack.repository.CapabilityRepository;
+import com.bueno.fullstackback.model.Capability;
+import com.bueno.fullstackback.repository.CapabilityRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.bueno.fullStackBack.exceptions;
+package com.bueno.fullstackback.exceptions;
 
 
 import lombok.Getter;

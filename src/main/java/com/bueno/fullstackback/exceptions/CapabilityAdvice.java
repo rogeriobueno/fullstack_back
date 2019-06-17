@@ -1,4 +1,4 @@
-package com.bueno.fullStackBack.exceptions;
+package com.bueno.fullstackback.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.bueno.fullStackBack.exceptions;
+package com.bueno.fullstackback.exceptions;
 
 public class CapabilityException extends RuntimeException {
 
